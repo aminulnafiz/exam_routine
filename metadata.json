@@ -1,0 +1,8 @@
+
+{
+  "name": "ARNS STUDY ZONE – Dakhil Exam Dashboard",
+  "description": "A premium, dark-mode EdTech dashboard for Dakhil students to track exam schedules, countdowns, and study progress.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
